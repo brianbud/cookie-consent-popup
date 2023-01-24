@@ -1,6 +1,6 @@
 # Annoying Cookie Consent Popup
 
-![annoying consent form popup ](./images/pirate.gif)
+![annoying consent form popup ](./images/cookie-consent.gif)
 
 ## Made with:
 
